@@ -11,9 +11,10 @@ A simple and fun Tic Tac Toe game built with Swift and SpriteKit.
 
 ## Screenshots
 
-<img src="SimulatorScreenshot1.png" alt="Screenshot" width="300">
-<img src="SimulatorScreenshot2.png" alt="Screenshot" width="300">
-
+<div style="display: flex; justify-content: space-around;">
+<img src="SimulatorScreenshot1" alt="Screenshot" width="200">
+<img src="SimulatorScreenshot2" alt="Screenshot" width="200">
+</div>
 ## Requirements
 
 - iOS 13.0+
