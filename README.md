@@ -11,8 +11,8 @@ A simple and fun Tic Tac Toe game built with Swift and SpriteKit.
 
 ## Screenshots
 
-![Screenshot](Simulator Screenshot - iPhone 15 Pro - 2024-08-06 at 13.17.20)
-![Screenshot](Simulator Screenshot - iPhone 15 Pro - 2024-08-06 at 13.16.54)
+![Screenshot](SimulatorScreenshot1)
+![Screenshot](SimulatorScreenshot2)
 
 ## Requirements
 
